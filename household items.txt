@@ -1,0 +1,5 @@
+1. Sofa
+2. Table
+3. Chair
+4. Bed
+5. Lamp
